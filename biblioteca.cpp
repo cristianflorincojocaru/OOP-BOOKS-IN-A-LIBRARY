@@ -43,6 +43,7 @@ vector<Carte> Biblioteca::cautaISBN(const string& isbn) const {
 void Biblioteca::afiseazaToateCartile() const {
     for (const Carte& carte : carti) {
         carte.afiseazaInformatii();
+        
         cout << "-----------------\n";
     }
 }
