@@ -30,3 +30,4 @@ void Carte::afiseazaInformatii() const {
     cout << "Year of publication: " << an_aparitie << "\n";
     cout << "Price: " << pret << " RON\n";
 }
+
