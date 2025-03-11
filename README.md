@@ -1,4 +1,4 @@
-# OOP-Books-In-A-Library
+# OOP - BOOKS IN A LIBRARY
 
 ### 1.  PROBLEM STATEMENT - **problem number 6***
 Design and implement a class for representing books in a library. For each book, the following details must be specified :
