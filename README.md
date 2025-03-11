@@ -1,6 +1,6 @@
 # OOP-Books-In-A-Library
 
-### 1. Problem Statement - **problem number 6***
+### 1.  PROBLEM STATEMENT - **problem number 6***
 Design and implement a class for representing books in a library. For each book, the following details must be specified :
 
 - the book title
@@ -18,7 +18,7 @@ Design and implement a class for representing books in a library. For each book,
 The program will allow the creation of an array of books in a library and the possibility of searching for books based on: title, publisher, or ISBN. The functions of the class will be written to allow the above-mentioned operations.
 
 
-### 2. Applied OOP Concepts
+### 2. APPLIED OOP CONCEPTS
 1. **Classes and Objects** :
 The program defines two classes: ***Carte*** (Book) and ***Biblioteca*** (Library).
 Objects of the class ***Carte*** represent individual books with attributes like title, authors, publisher, ISBN, year of publication, and price.
@@ -42,7 +42,7 @@ The user interacts with the ***Biblioteca*** class in a simplified manner withou
 Polymorphism isn't explicitly used here in terms of method overriding, but the design could be extended to include polymorphism (e.g., different types of books with different formats for displaying information).
 
 
-### 3. Program Workflow
+### 3. PROGRAM WORKFLOW
 1. **Initialization** :
 >The program starts by creating an instance of the ***Biblioteca*** class.
 
